@@ -100,7 +100,7 @@ Feel free to fork this repository, submit issues, or create pull requests with y
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [./License]
+This project is licensed under the MIT License[./License]
 
 ---
 
@@ -113,7 +113,5 @@ For any questions or suggestions, feel free to reach out:
 
 ---
 
-Enjoy using **MarkView Editor**! Happy writing! ✍️
 
----
 
