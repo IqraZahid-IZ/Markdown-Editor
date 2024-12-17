@@ -18,7 +18,7 @@ MarkView is an advanced Markdown editor that provides a clean and simple interfa
 
 ## Live Demo 🚀
 
-You can try out the live demo [https://iqrazahid-iz.github.io/Markdown-Editor/](#) 
+You can try out the live demo ([https://iqrazahid-iz.github.io/Markdown-Editor/) 
 
 ---
 
